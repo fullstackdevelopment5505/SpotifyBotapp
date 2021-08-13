@@ -1,0 +1,12 @@
+D:\work\spotify\SpotifyBot\bin\Release\netcoreapp2.2\config.json
+D:\work\spotify\SpotifyBot\bin\Release\netcoreapp2.2\SpotifyBot.deps.json
+D:\work\spotify\SpotifyBot\bin\Release\netcoreapp2.2\SpotifyBot.runtimeconfig.json
+D:\work\spotify\SpotifyBot\bin\Release\netcoreapp2.2\SpotifyBot.runtimeconfig.dev.json
+D:\work\spotify\SpotifyBot\bin\Release\netcoreapp2.2\SpotifyBot.dll
+D:\work\spotify\SpotifyBot\bin\Release\netcoreapp2.2\SpotifyBot.pdb
+D:\work\spotify\SpotifyBot\obj\Release\netcoreapp2.2\SpotifyBot.csproj.CoreCompileInputs.cache
+D:\work\spotify\SpotifyBot\obj\Release\netcoreapp2.2\SpotifyBot.AssemblyInfoInputs.cache
+D:\work\spotify\SpotifyBot\obj\Release\netcoreapp2.2\SpotifyBot.AssemblyInfo.cs
+D:\work\spotify\SpotifyBot\obj\Release\netcoreapp2.2\SpotifyBot.dll
+D:\work\spotify\SpotifyBot\obj\Release\netcoreapp2.2\SpotifyBot.pdb
+D:\work\spotify\SpotifyBot\obj\Release\netcoreapp2.2\SpotifyBot.csprojAssemblyReference.cache

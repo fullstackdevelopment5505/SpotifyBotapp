@@ -1,0 +1,1 @@
+select * from ((((Orders join Tracks on Tracks.TrackId = Orders.TrackIds) join AccountTracks on Orders.TrackIds = AccountTracks.TrackId) JOIN Accounts on AccountTracks.AccountId=Accounts.AccountId) JOIN AccountTypes on Accounts.AccountTypeId=AccountTypes.Id) join Proxies on Accounts.CurrentProxyId=Proxies.Id 

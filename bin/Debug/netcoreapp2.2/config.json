@@ -1,0 +1,13 @@
+{
+  "accounts": [
+    {
+      "ProxyData": {
+        "Id": "1",
+        "IpAddress": "p.webshare.io",
+        "Port": "20002",
+        "UserName": "123marc@live.dk",
+        "Password": "pomfrit11"
+      }
+    }
+  ]
+}
